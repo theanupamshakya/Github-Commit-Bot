@@ -1,22 +1,4 @@
 This is where we are going to make additions and stage and at last commit
 
 
-1 days ago <- this was the commit for the day!!700 days ago <- this was the commit for the day!!
-699 days ago <- this was the commit for the day!!
-698 days ago <- this was the commit for the day!!
-697 days ago <- this was the commit for the day!!
-696 days ago <- this was the commit for the day!!
-695 days ago <- this was the commit for the day!!
-694 days ago <- this was the commit for the day!!
-693 days ago <- this was the commit for the day!!
-692 days ago <- this was the commit for the day!!
-691 days ago <- this was the commit for the day!!
-690 days ago <- this was the commit for the day!!
-689 days ago <- this was the commit for the day!!
-688 days ago <- this was the commit for the day!!
-687 days ago <- this was the commit for the day!!
-686 days ago <- this was the commit for the day!!
-685 days ago <- this was the commit for the day!!
-684 days ago <- this was the commit for the day!!
-683 days ago <- this was the commit for the day!!
-682 days ago <- this was the commit for the day!!
+1 days ago <- this was the commit for the day!!7 days ago <- this was the commit for the day!!
